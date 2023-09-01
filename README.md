@@ -1,4 +1,4 @@
-#Is Netflix Still Worth It? A Data-Driven Exploration of My Viewing Habits
+# Is Netflix Still Worth It? A Data-Driven Exploration of My Viewing Habits
 In this project, I will explore my own viewing habits on the Netflix platform. The analysis will focus on answering the following questions:
 
 What are the top 10 most viewed content by counting of views and by total hours viewed?
